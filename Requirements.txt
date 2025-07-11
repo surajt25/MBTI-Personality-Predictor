@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+nltk
+re 
+string
+sklearn
+pickle
+os
