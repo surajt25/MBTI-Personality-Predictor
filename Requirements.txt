@@ -4,6 +4,8 @@ matplotlib
 nltk
 re 
 string
-sklearn
+scikit-learn
 pickle
 os
+seaborn
+joblib
